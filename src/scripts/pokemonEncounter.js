@@ -99,6 +99,8 @@ encounterGroupButton.addEventListener("click",async (event) => {
         getPokemon(), 
         getPokemon(), 
         getPokemon()]);
+
     console.log(multiplePokemonResult);
+    
     multiplePokemonResult.forEach(renderPokemonData);
 });

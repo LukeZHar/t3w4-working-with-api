@@ -1,0 +1,40 @@
+html {
+    background-color: yellow;
+    background-image: linear-gradient(to bottom right, yellow, green);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: black 3px solid;
+    background-color: white;
+    margin: 100px;
+    padding: 10px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    
+}
+
+button {
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: black 1 solid;
+    border-radius: 20px;
+    box-shadow: 1px 1px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+h3 {
+   
+}
